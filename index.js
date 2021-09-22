@@ -152,7 +152,7 @@ if(score[0]>=4)
 log(chalk.greenBright(`Damn you are true fan! You scored : ${score[0]}`));
 
 console.log('You deserve to be in the Gryffindor House.')
-for(var i=0;i<highSCORES.length;i++)
+for(var i=1;i<highSCORES.length;i++)
 {
   var curr = highSCORES[i];
   if(curr.scoree<score[0]){
