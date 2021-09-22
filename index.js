@@ -1,3 +1,4 @@
+
 //read Input
 const chalk = require('chalk');
 var readlineSync = require('readline-sync');
@@ -134,7 +135,7 @@ var highSCORES2=
 [
   {
     name:"Sanjana",
-    scoree:3
+    scoree:2
   }
 ]
 
